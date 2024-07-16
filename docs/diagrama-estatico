@@ -1,1 +1,25 @@
+# Diagram Representation
 
+## Professor
+- **Type:** Software System
+- **Description:** Description of software system.
+- **Relationship:** Plataforma (to Alunos)
+
+## Alunos
+- **Type:** Software System
+- **Description:** Description of software system.
+- **Relationship:** Plataforma (to Cursos)
+
+## Cursos
+- **Type:** Software System
+- **Description:** Description of software system.
+- **Relationship:** Plataforma (to Fóruns)
+
+## Fóruns
+- **Type:** Software System
+- **Description:** Gerenciador de cursos
+- **Relationship:** Plataforma (to mensagem)
+
+## mensagem
+- **Type:** Software System
+- **Description:** Description of software system.
